@@ -1,0 +1,14 @@
+{
+  "name": "com.matt.fps-toolkit.Runtime",
+  "rootNamespace": "FPSToolkit",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
